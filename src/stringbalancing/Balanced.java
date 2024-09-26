@@ -21,7 +21,7 @@ class Stack {
     public int size() {
         return this.elements.size();
     }
-        
+        //testando um dois tres
     public void push(Character element) {
         this.elements.add(element);
     }
